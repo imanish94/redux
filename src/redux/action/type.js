@@ -1,0 +1,6 @@
+export const CHANGE_NAME = "CHANGE_NAME";
+export const CHANGE_ID = "CHANGE_ID";
+export const CHANGE_YEAR = "CHANGE_YEAR";
+export const CHANGE_MONTH = "CHANGE_MONTH";
+export const CHANGE_THEME_DARK = "CHANGE_THEME_DARK";
+export const CHANGE_THEME_LIGHT = "CHANGE_THEME_LIGHT";
